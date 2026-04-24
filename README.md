@@ -39,10 +39,10 @@ To win, you must also use strategies and deal with special events. The game incl
 Since this is an analog game, you don't need to install anything. Just print, cut, and play!
 
 1. Go to the files in this repository.
-2. Download the **`CARTAS_FINAL.pdf`** file (which contains the beautifully designed card deck).
+2. Download the [**CARTAS_FINAL.pdf**](./CARTAS_FINAL.pdf) file (which contains the beautifully designed card deck).
 3. Print the document on high-quality, thick paper (like cardstock) for a better shuffling experience.
 4. Cut out the individual cards.
-5. Download the **`CARD GAME OPEN LICENSES.pdf`** file to read the full rulebook.
+5. Download the [**CARD GAME OPEN LICENSES.pdf**](./CARD%20GAME%20OPEN%20LICENSES.pdf) file to read the full rulebook.
 6. Shuffle the deck, gather your friends, and start playing!
 
 ---
